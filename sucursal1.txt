@@ -1,0 +1,20 @@
+1,grabadora de video,3,35
+2,modem de internet,4,20
+3,impresora,6,200
+4,ordenador,9,450
+5,consola,22,20
+6,mouse,12,6
+7,laptop,14,325
+8,camara de video,12,45
+9,movil,11,150
+10,teclado,3,8
+11,ventilador,7,30
+12,reloj digital,25,5
+13,tarjeta madre,8,55
+14,tablet,5,355
+15,router de wifi,4,40
+16,camara de seguridad,4,225
+17,pantalla plana,14,400
+18,monitor,12,45
+19,camara web,6,63
+20,nevera,2,250

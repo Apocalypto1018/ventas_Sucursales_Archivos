@@ -1,0 +1,21 @@
+1,rebluray,5,35
+2,tv xiaomi 80,7,20
+3,impresora,3,200
+4,ordenador,14,450
+5,mouse logitec,25,20
+6,mouse,9,6
+7,laptop,17,325
+8,freidora de aire,6,45
+9,movil,21,150
+10,teclado,13,8
+11,ventilador,17,30
+12,reloj digital,35,5
+13,ps5,7,55
+14,tablet,15,355
+15,teclado razer,9,40
+16,camara de seguridad,2,225
+17,tv lg 40,7,400
+18,monitor,6,45
+19,aire acondicionado,5,63
+20,nevera,3,250
+
